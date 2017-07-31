@@ -16,6 +16,10 @@
 
     VS CODE 사용시 Reactjs new code snippets 설치 하면 작업에 용이함
 
+### yarn 설치
+
+    https://yarnpkg.com/en/docs/install
+
 ### Router
     
     React Router v4사용
@@ -24,3 +28,4 @@
 ### 코드 스플리팅
 
     웹팩 설정으로 특정 라우트에서 필요한 데이터만 불러와서 사용할 수 있다. (트래픽, 로딩속도 개선에 용이)
+    yarn eject 실행시 웹팩 및 바벨 환경설정 config폴더에 생성
